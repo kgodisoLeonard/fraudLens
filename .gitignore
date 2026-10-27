@@ -14,3 +14,10 @@ server/.env
 
 .env.local
 server/.env
+
+.env
+.env.local
+.env.*.local
+node_modules/
+dist/
+supabase/.temp/
